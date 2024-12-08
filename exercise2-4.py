@@ -3,7 +3,7 @@
 nota = input("Ingrese nota: (fin para detener)")
 
 suma_notas = 0
-cantidad_notas = 0      
+cantidad_notas = 0
 while nota != "fin":
     nota = float(nota)
     suma_notas += nota
